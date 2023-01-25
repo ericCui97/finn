@@ -1,0 +1,9 @@
+# ninja log v5
+1	388	1674240875586677558	CMakeFiles/finn_server.dir/main.cpp.o	5092de11b673e600
+5	603	1674660972007502896	CMakeFiles/finn_server.dir/src/main.cpp.o	d20ba5f91286feca
+6	522	1674661182398509899	CMakeFiles/finn_server.dir/src/log.cpp.o	2e82ab60f580a0af
+1	336	1674240729196198266	CMakeFiles/finn_server.dir/log.cpp.o	3b9e8f9ad0881aa5
+1263	1289	1674241539404216000	lib/libgtestd.a	5f01ad4309b47cdf
+603	657	1674660972065842195	finn_server	5fa1ff7d4bbcfa3e
+1	1169	1674240730025821115	googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c504d18758e93c48
+0	1262	1674241539372403710	lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	afd3c49bce8aad44
